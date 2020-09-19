@@ -1,2 +1,2 @@
 # Covid19Statistics
-A simple page showing covid 19 statistics, created using html, css and js.
+A simple page showing COVID19 statistics, created using HTML, CSS and JavaScript.
